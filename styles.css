@@ -86,7 +86,7 @@ ul li a {
 ul li a:hover {
   border-top-color: var(  --extra-light);
   border-bottom-color: var(  --extra-light);
-  color: var(  --extra-light);
+  color: var(  --secondary-colort);
 }
 
 .section {
@@ -195,7 +195,7 @@ ul li a:hover {
     height: calc(100vh - 85px);
     left: -100%;
     top: 85px;
-    background-color: var(--extra-light);
+    background-color: var(--secondary-color);
     flex-direction: column;
     justify-content: center;
     gap: 3rem;
